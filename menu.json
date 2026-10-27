@@ -1,0 +1,17 @@
+{
+  "date": "Today's Menu",
+  "items": [
+    { "id": 1, "name": "Chicken Biryani", "category": "Meals", "price": 350, "emoji": "🍛", "description": "Fragrant basmati rice layered with spiced chicken, served with raita." },
+    { "id": 2, "name": "Daal Chawal", "category": "Meals", "price": 220, "emoji": "🍚", "description": "Tarka daal over steamed rice with salad and pickle." },
+    { "id": 3, "name": "Chicken Karahi", "category": "Meals", "price": 420, "emoji": "🍲", "description": "Tomato-ginger karahi with two fresh rotis." },
+    { "id": 4, "name": "Zinger Burger", "category": "Fast Food", "price": 380, "emoji": "🍔", "description": "Crispy chicken fillet, lettuce and garlic mayo in a sesame bun." },
+    { "id": 5, "name": "Club Sandwich", "category": "Fast Food", "price": 300, "emoji": "🥪", "description": "Grilled chicken, egg, cheese and fries on the side." },
+    { "id": 6, "name": "Chicken Roll", "category": "Fast Food", "price": 250, "emoji": "🌯", "description": "Paratha roll with chicken tikka and mint chutney." },
+    { "id": 7, "name": "Samosa (2 pcs)", "category": "Snacks", "price": 80, "emoji": "🥟", "description": "Crisp potato and pea samosas with imli chutney." },
+    { "id": 8, "name": "Fries", "category": "Snacks", "price": 150, "emoji": "🍟", "description": "Salted fries with ketchup." },
+    { "id": 9, "name": "Doodh Patti Chai", "category": "Drinks", "price": 70, "emoji": "🍵", "description": "Strong, creamy tea brewed fresh." },
+    { "id": 10, "name": "Mint Margarita", "category": "Drinks", "price": 140, "emoji": "🥤", "description": "Chilled lemon, mint and soda." },
+    { "id": 11, "name": "Cold Coffee", "category": "Drinks", "price": 220, "emoji": "🧋", "description": "Blended iced coffee with a milk base." },
+    { "id": 12, "name": "Gulab Jamun (2 pcs)", "category": "Desserts", "price": 120, "emoji": "🍡", "description": "Warm milk-solid dumplings in rose syrup." }
+  ]
+}
